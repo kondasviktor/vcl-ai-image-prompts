@@ -40,7 +40,7 @@ Clean engineering drawing. High contrast white on blue. 16:9. No extra decorativ
 
 ## Tested
 
-Pending — generate the same expanded prompt on ChatGPT Images, Gemini, Grok, and MAI Playground (MAI-Image), then drop files in `examples/blueprint/` and date this section. Do not mark a model as working until then.
+Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop files in `examples/blueprint/` and date this section. Do not mark a model as working until then.
 
 ## Related
 

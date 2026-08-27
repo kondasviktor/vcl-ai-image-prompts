@@ -1,9 +1,9 @@
 # VCL Image Prompts
 
-**Copy-paste visual prompt recipes for ChatGPT Images, Gemini, Grok, MAI Playground, and other AI image generators** — by [Vibe Coder's Life](https://vibecoderslife.com/?utm_source=github&utm_medium=readme&utm_campaign=image-prompts).
+**Copy-paste visual prompt recipes for ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground) chats** — by [Vibe Coder's Life](https://vibecoderslife.com/?utm_source=github&utm_medium=readme&utm_campaign=image-prompts).
 
 > Display name: **VCL Image Prompts** · GitHub: `kondasviktor/vcl-ai-image-prompts`  
-> Slash tokens like `/xray` and `/blueprint` are **memorable shorthand, not official commands**. If a model ignores the `/`, use the expanded prompt in the recipe.
+> Slash tokens like `/xray` and `/blueprint` are **memorable shorthand, not official commands**. If a chat ignores the `/`, use the expanded prompt in the recipe.
 
 📬 **[Get new prompts in the Vibe Coder's Life newsletter](https://vibecoderslife.com/?utm_source=github&utm_medium=readme&utm_campaign=image-prompts#subscribe-email)** · ⭐ Star this repo if you want it maintained.
 
@@ -11,13 +11,13 @@
 
 ## Why this exists
 
-Most “100 ChatGPT image commands” lists are ChatGPT-only, undated, and untested on Gemini, Grok, or Microsoft’s MAI-Image. This repo is:
+Most “100 ChatGPT image commands” lists are ChatGPT-only, undated, and untested elsewhere. This repo is:
 
-- **Cross-model** — same recipe across ChatGPT Images, Gemini, Grok, and [MAI Playground](https://playground.microsoft.ai/) (MAI-Image), when examples exist
+- **Four chats, one recipe** — paste the same prompt into ChatGPT, Gemini, Grok, and [Microsoft AI (MAI Playground)](https://playground.microsoft.ai/chat) (choose **MAI-Image-2.6** or **MAI-Image-2.5**)
 - **Honest** — no ✅ until an image was actually generated
 - **Built for vibe coders** — SaaS mockups, product shots, diagrams, not only art styles
 
-MAI Playground is Microsoft AI’s limited-preview sandbox for in-house models. Paste the **expanded** recipe into MAI-Image there. Bing Image Creator / Copilot / Designer are separate products that may run related models — treat them as optional follow-ups, not the same UI as Playground.
+MAI Playground is Microsoft AI’s limited-preview chat at `playground.microsoft.ai/chat`. Prefer the **expanded** recipe when a slash token does nothing.
 
 ## Featured recipes (v1)
 
@@ -38,11 +38,11 @@ MAI Playground is Microsoft AI’s limited-preview sandbox for in-house models. 
 
 Full catalog (100+ shorthands): **[commands/catalog.md](commands/catalog.md)**.
 
-Example images: **[examples/](examples/)** — empty until the same prompt is run on ChatGPT, Gemini, Grok, and MAI.
+Example images: **[examples/](examples/)** — empty until the same prompt is run in all four chats.
 
 ## How you can help (please)
 
-1. ⭐ **Star this repo** if a maintained, cross-model prompt cookbook is useful — stars help others find it, and they tell us it is worth updating when models change.
+1. ⭐ **Star this repo** if a maintained, cross-chat prompt cookbook is useful — stars help others find it, and they tell us it is worth updating when models change.
 2. 🍴 **Fork it** when you want your own subject list or extra recipes.
 3. 🧩 **Contribute a recipe** — shorthand + expanded prompt; do not fake test badges ([CONTRIBUTING.md](CONTRIBUTING.md)).
 4. ✉️ **[Subscribe to the Vibe Coder's Life newsletter](https://vibecoderslife.com/?utm_source=github&utm_medium=readme&utm_campaign=image-prompts#subscribe-email)** for new prompts and write-ups — no need to live in GitHub to stay in the loop.

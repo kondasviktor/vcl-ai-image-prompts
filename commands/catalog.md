@@ -1,6 +1,6 @@
 # Command catalog
 
-Slash tokens are **memorable shorthand**, not official ChatGPT / Gemini / Grok / MAI APIs. If a model ignores `/blueprint`, paste the expanded recipe instead.
+Slash tokens are **memorable shorthand**, not official ChatGPT / Gemini / Grok / Microsoft AI APIs. If a model ignores `/blueprint`, paste the expanded recipe instead.
 
 **Count:** 116 commands. Featured recipes (expanded prompts) are in [`../recipes/`](../recipes/).
 

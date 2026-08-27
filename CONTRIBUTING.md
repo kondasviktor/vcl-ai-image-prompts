@@ -6,7 +6,7 @@ Thanks for helping VCL Image Prompts stay useful for vibe coders.
 
 - Propose a new **command** (slash shorthand + one-line meaning + category)
 - Propose a **recipe** (quick prompt + expanded prompt + subject that other people can reuse)
-- After launch: attach **same-prompt** outputs from ChatGPT Images, Gemini, Grok, and MAI Playground (MAI-Image) with a last-tested date
+- After launch: attach **same-prompt** outputs from ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat) with a last-tested date
 
 ## Rules
 
