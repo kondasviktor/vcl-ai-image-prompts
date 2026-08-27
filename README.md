@@ -1,6 +1,6 @@
 # VCL Image Prompts
 
-**Copy-paste visual prompt recipes for ChatGPT Images, Gemini, Grok, and other AI image generators** — by [Vibe Coder's Life](https://vibecoderslife.com/?utm_source=github&utm_medium=readme&utm_campaign=image-prompts).
+**Copy-paste visual prompt recipes for ChatGPT Images, Gemini, Grok, MAI Playground, and other AI image generators** — by [Vibe Coder's Life](https://vibecoderslife.com/?utm_source=github&utm_medium=readme&utm_campaign=image-prompts).
 
 > Display name: **VCL Image Prompts** · GitHub: `kondasviktor/vcl-ai-image-prompts`  
 > Slash tokens like `/xray` and `/blueprint` are **memorable shorthand, not official commands**. If a model ignores the `/`, use the expanded prompt in the recipe.
@@ -11,11 +11,13 @@
 
 ## Why this exists
 
-Most “100 ChatGPT image commands” lists are ChatGPT-only, undated, and untested on Gemini or Grok. This repo is:
+Most “100 ChatGPT image commands” lists are ChatGPT-only, undated, and untested on Gemini, Grok, or Microsoft’s MAI-Image. This repo is:
 
-- **Cross-model** — same recipe, three generators, when examples exist
+- **Cross-model** — same recipe across ChatGPT Images, Gemini, Grok, and [MAI Playground](https://playground.microsoft.ai/) (MAI-Image), when examples exist
 - **Honest** — no ✅ until an image was actually generated
 - **Built for vibe coders** — SaaS mockups, product shots, diagrams, not only art styles
+
+MAI Playground is Microsoft AI’s limited-preview sandbox for in-house models. Paste the **expanded** recipe into MAI-Image there. Bing Image Creator / Copilot / Designer are separate products that may run related models — treat them as optional follow-ups, not the same UI as Playground.
 
 ## Featured recipes (v1)
 
@@ -36,7 +38,7 @@ Most “100 ChatGPT image commands” lists are ChatGPT-only, undated, and untes
 
 Full catalog (100+ shorthands): **[commands/catalog.md](commands/catalog.md)**.
 
-Example images: **[examples/](examples/)** — empty until the same prompt is run on ChatGPT, Gemini, and Grok.
+Example images: **[examples/](examples/)** — empty until the same prompt is run on ChatGPT, Gemini, Grok, and MAI.
 
 ## How you can help (please)
 
@@ -46,7 +48,7 @@ Example images: **[examples/](examples/)** — empty until the same prompt is ru
 4. ✉️ **[Subscribe to the Vibe Coder's Life newsletter](https://vibecoderslife.com/?utm_source=github&utm_medium=readme&utm_campaign=image-prompts#subscribe-email)** for new prompts and write-ups — no need to live in GitHub to stay in the loop.
 5. ☕ **[Buy Me a Coffee](https://buymeacoffee.com/kondasviktor)** if you want to support maintenance — optional.
 
-Write-up (when live): [100+ AI Image Prompt Commands for ChatGPT, Gemini & Grok](https://vibecoderslife.com/post/ai-image-prompt-commands-chatgpt-gemini-grok?utm_source=github&utm_medium=readme&utm_campaign=image-prompts) on [vibecoderslife.com](https://vibecoderslife.com/?utm_source=github&utm_medium=readme&utm_campaign=image-prompts).
+Write-up (when live): [100+ AI Image Prompt Commands for ChatGPT, Gemini, Grok & MAI](https://vibecoderslife.com/post/ai-image-prompt-commands-chatgpt-gemini-grok?utm_source=github&utm_medium=readme&utm_campaign=image-prompts) on [vibecoderslife.com](https://vibecoderslife.com/?utm_source=github&utm_medium=readme&utm_campaign=image-prompts).
 
 ---
 

@@ -30,7 +30,7 @@ Readable UI, not lorem-ipsum blur. No Apple marketing lockup.
 
 ## Tested
 
-Pending — generate the same expanded prompt on ChatGPT Images, Gemini, and Grok, then drop files in `examples/appmockup/` and date this section. Do not mark a model as working until then.
+Pending — generate the same expanded prompt on ChatGPT Images, Gemini, Grok, and MAI Playground (MAI-Image), then drop files in `examples/appmockup/` and date this section. Do not mark a model as working until then.
 
 ## Related
 
