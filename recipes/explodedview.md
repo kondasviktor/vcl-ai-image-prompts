@@ -1,10 +1,10 @@
 # Exploded view — Apple MacBook
 
-**Command:** `/explodedview`
+**Command:** `/explodedview` (viral alias: `/explode`)
 
 ## What it does
 
-Separates components along a shared axis so you can see how the product is built.
+Separates components along a shared axis so you can see how the product is built. Roundups often write this as `/explode` — same idea.
 
 ## Works best for
 
