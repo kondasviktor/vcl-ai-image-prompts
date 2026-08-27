@@ -2,7 +2,7 @@
 
 Slash tokens are **memorable shorthand**, not official ChatGPT / Gemini / Grok / Microsoft AI APIs. If a model ignores `/blueprint`, paste the expanded recipe instead.
 
-**Count:** 116 commands. Featured recipes (expanded prompts) are in [`../recipes/`](../recipes/).
+**Count:** 117 commands (includes `/explode` as an alias of `/explodedview`). Featured recipes (expanded prompts) are in [`../recipes/`](../recipes/).
 
 **Tested column:** empty until a recipe has dated ChatGPT / Gemini / Grok / MAI outputs in `examples/`.
 
@@ -13,6 +13,7 @@ Slash tokens are **memorable shorthand**, not official ChatGPT / Gemini / Grok /
 | `/blueprint` | Technical blueprint on a blue grid, white annotations |
 | `/xray` | Semi-transparent shell, internal structure visible |
 | `/explodedview` | Components separated along an axis |
+| `/explode` | Alias of `/explodedview` (viral spelling) |
 | `/cutaway` | Exterior removed on one side to show interior |
 | `/crosssection` | Single cutting plane through the object |
 | `/schematic` | Simplified electrical / systems schematic |

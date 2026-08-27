@@ -14,23 +14,23 @@
 Most “100 ChatGPT image commands” lists are ChatGPT-only, undated, and untested elsewhere. This repo is:
 
 - **Four chats, one recipe** — paste the same prompt into ChatGPT, Gemini, Grok, and [Microsoft AI (MAI Playground)](https://playground.microsoft.ai/chat) (choose **MAI-Image-2.6** or **MAI-Image-2.5**)
-- **Honest** — no ✅ until an image was actually generated
+- **Honest** — no ✅ until an image was actually generated in that chat
 - **Built for vibe coders** — SaaS mockups, product shots, diagrams, not only art styles
 
-MAI Playground is Microsoft AI’s limited-preview chat at `playground.microsoft.ai/chat`. Prefer the **expanded** recipe when a slash token does nothing.
+Viral roundups in 2026 keep hitting the same technical set: `/explodedview` (often written `/explode`), `/xray`, `/cutaway`, `/blueprint`, `/isometric`, `/poster`. Featured recipes below lead with those.
 
 ## Featured recipes (v1)
 
 | Command | Subject | Recipe |
 |---------|---------|--------|
-| `/blueprint` | Tesla Cybertruck | [blueprint.md](recipes/blueprint.md) |
-| `/xray` | Mechanical keyboard | [xray.md](recipes/xray.md) |
 | `/explodedview` | Apple MacBook | [explodedview.md](recipes/explodedview.md) |
+| `/xray` | Mechanical keyboard | [xray.md](recipes/xray.md) |
 | `/cutaway` | Two-story house | [cutaway.md](recipes/cutaway.md) |
-| `/crosssection` | Electric motor | [crosssection.md](recipes/crosssection.md) |
+| `/blueprint` | Tesla Cybertruck | [blueprint.md](recipes/blueprint.md) |
 | `/isometric` | Espresso machine | [isometric.md](recipes/isometric.md) |
+| `/poster` | Conference one-sheet | [poster.md](recipes/poster.md) |
+| `/crosssection` | Electric motor | [crosssection.md](recipes/crosssection.md) |
 | `/infographic` | How HTTPS works | [infographic.md](recipes/infographic.md) |
-| `/timeline` | History of the iPhone | [timeline.md](recipes/timeline.md) |
 | `/productshot` | Wireless earbuds | [productshot.md](recipes/productshot.md) |
 | `/appmockup` | Habit-tracker iOS app | [appmockup.md](recipes/appmockup.md) |
 | `/youtubethumbnail` | “I tested 3 image models” | [youtubethumbnail.md](recipes/youtubethumbnail.md) |
@@ -38,7 +38,7 @@ MAI Playground is Microsoft AI’s limited-preview chat at `playground.microsoft
 
 Full catalog (100+ shorthands): **[commands/catalog.md](commands/catalog.md)**.
 
-Example images: **[examples/](examples/)** — empty until the same prompt is run in all four chats.
+Example images: **[examples/](examples/)** — style demos under `before.png` / `demo.png` for xray, explodedview, cutaway; dated four-chat outputs still pending.
 
 ## How you can help (please)
 
