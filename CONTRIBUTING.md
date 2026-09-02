@@ -12,9 +12,10 @@ Thanks for helping VCL Image Prompts stay useful for vibe coders.
 
 1. **No secrets** in issues, PRs, or example files
 2. Slash tokens (`/xray`, `/blueprint`, …) are **shorthand, not official APIs**. Always include an expanded natural-language prompt
-3. Do **not** mark a model as working unless you generated the image and recorded the date
+3. Do **not** mark a model as working unless you generated the image and recorded the date. README `before.png` / `demo.png` pairs are **style demos**, not ChatGPT / Gemini / Grok / MAI proof
 4. Prefer VCL-audience recipes (SaaS mockups, product shots, App Store, landing pages, technical diagrams) over generic art dumps
-5. Code contributions: MIT. Prompt / catalog / image contributions: CC BY 4.0 (see LICENSE-DATA)
+5. New gallery pairs: `examples/<slug>/before.png` and `demo.png` (16:9). Four-chat outputs use `chatgpt.png`, `gemini.png`, `grok.png`, `mai.png` in the same folder
+6. Code contributions: MIT. Prompt / catalog / image contributions: CC BY 4.0 (see LICENSE-DATA)
 
 ## Local
 

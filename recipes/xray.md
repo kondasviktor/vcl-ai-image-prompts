@@ -39,9 +39,13 @@ No unnecessary text.
 16:9.
 ```
 
+## Style demo
+
+`examples/xray/before.png` → `demo.png` (look of this recipe). Not a dated ChatGPT / Gemini / Grok / MAI bake-off.
+
 ## Tested
 
-Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop files in `examples/xray/` and date this section. Do not mark a model as working until then.
+Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop `chatgpt.png` / `gemini.png` / `grok.png` / `mai.png` in `examples/xray/` and date this section. Do not mark a model as working until then.
 
 ## Related
 

@@ -34,9 +34,13 @@ Colors: near-black background, #7fff6e accent, white secondary type.
 No tiny unreadable paragraphs. No fake QR codes. No watermarks. 16:9.
 ```
 
+## Style demo
+
+`examples/poster/before.png` → `demo.png` (look of this recipe). Not a dated ChatGPT / Gemini / Grok / MAI bake-off.
+
 ## Tested
 
-Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop files in `examples/poster/` and date this section. Do not mark a model as working until then.
+Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop `chatgpt.png` / `gemini.png` / `grok.png` / `mai.png` in `examples/poster/` and date this section. Do not mark a model as working until then.
 
 ## Related
 

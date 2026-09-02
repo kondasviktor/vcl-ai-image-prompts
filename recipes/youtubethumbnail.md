@@ -29,9 +29,13 @@ High contrast, face optional. Not a desktop screenshot. Not a 4K wallpaper.
 Leave a little safe margin so YouTube crop does not kill the type.
 ```
 
+## Style demo
+
+`examples/youtubethumbnail/before.png` → `demo.png` (look of this recipe). Not a dated ChatGPT / Gemini / Grok / MAI bake-off.
+
 ## Tested
 
-Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop files in `examples/youtubethumbnail/` and date this section. Do not mark a model as working until then.
+Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop `chatgpt.png` / `gemini.png` / `grok.png` / `mai.png` in `examples/youtubethumbnail/` and date this section. Do not mark a model as working until then.
 
 ## Related
 

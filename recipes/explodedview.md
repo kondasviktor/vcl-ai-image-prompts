@@ -37,9 +37,13 @@ Studio lighting, dark background, photoreal materials, even spacing between part
 No people. No extra logos besides a tasteful Apple-like mark if needed for recognition.
 ```
 
+## Style demo
+
+`examples/explodedview/before.png` → `demo.png` (look of this recipe). Not a dated ChatGPT / Gemini / Grok / MAI bake-off.
+
 ## Tested
 
-Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop files in `examples/explodedview/` and date this section. Do not mark a model as working until then.
+Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop `chatgpt.png` / `gemini.png` / `grok.png` / `mai.png` in `examples/explodedview/` and date this section. Do not mark a model as working until then.
 
 ## Related
 

@@ -2,7 +2,7 @@
 
 Slash tokens are **memorable shorthand**, not official ChatGPT / Gemini / Grok / Microsoft AI APIs. If a model ignores `/blueprint`, paste the expanded recipe instead.
 
-**Count:** 117 commands (includes `/explode` as an alias of `/explodedview`). Featured recipes (expanded prompts) are in [`../recipes/`](../recipes/).
+**Count:** 117 commands (includes `/explode` as an alias of `/explodedview`). Featured recipes (expanded prompts + before/after) are in [`../recipes/`](../recipes/) and on the [README gallery](../README.md).
 
 **Tested column:** empty until a recipe has dated ChatGPT / Gemini / Grok / MAI outputs in `examples/`.
 
@@ -153,19 +153,21 @@ Slash tokens are **memorable shorthand**, not official ChatGPT / Gemini / Grok /
 | `/merch` | T-shirt / merch mockup |
 | `/pitchdeck` | One pitch-deck slide |
 
-## Featured recipes
+## Featured recipes (gallery on the README)
 
 | Slug | Command | Subject |
 |------|---------|---------|
-| [blueprint](../recipes/blueprint.md) | `/blueprint` | Tesla Cybertruck |
-| [xray](../recipes/xray.md) | `/xray` | Mechanical keyboard |
 | [explodedview](../recipes/explodedview.md) | `/explodedview` | Apple MacBook |
+| [xray](../recipes/xray.md) | `/xray` | Mechanical keyboard |
 | [cutaway](../recipes/cutaway.md) | `/cutaway` | Two-story house |
-| [crosssection](../recipes/crosssection.md) | `/crosssection` | Electric motor |
+| [blueprint](../recipes/blueprint.md) | `/blueprint` | Tesla Cybertruck |
 | [isometric](../recipes/isometric.md) | `/isometric` | Espresso machine |
+| [poster](../recipes/poster.md) | `/poster` | Conference one-sheet |
+| [crosssection](../recipes/crosssection.md) | `/crosssection` | Electric motor |
 | [infographic](../recipes/infographic.md) | `/infographic` | How HTTPS works |
-| [timeline](../recipes/timeline.md) | `/timeline` | History of the iPhone |
 | [productshot](../recipes/productshot.md) | `/productshot` | Wireless earbuds |
 | [appmockup](../recipes/appmockup.md) | `/appmockup` | Habit-tracker iOS app |
 | [youtubethumbnail](../recipes/youtubethumbnail.md) | `/youtubethumbnail` | “I tested 3 image models” |
 | [landingpage](../recipes/landingpage.md) | `/landingpage` | Indie SaaS waitlist |
+
+Extra recipe (no gallery pair yet): [timeline](../recipes/timeline.md) — history of the iPhone.

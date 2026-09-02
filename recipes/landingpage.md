@@ -28,9 +28,13 @@ Below: three benefit tiles. Dark theme, tasteful, not a Dribbble clutter dump.
 16:9 crop of the browser content area. No real company trademarks.
 ```
 
+## Style demo
+
+`examples/landingpage/before.png` → `demo.png` (look of this recipe). Not a dated ChatGPT / Gemini / Grok / MAI bake-off.
+
 ## Tested
 
-Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop files in `examples/landingpage/` and date this section. Do not mark a model as working until then.
+Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop `chatgpt.png` / `gemini.png` / `grok.png` / `mai.png` in `examples/landingpage/` and date this section. Do not mark a model as working until then.
 
 ## Related
 

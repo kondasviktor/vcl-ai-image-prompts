@@ -27,9 +27,13 @@ Softbox lighting, subtle reflection on a seamless light-gray cyclorama, 16:9.
 Sharp, catalog-ready, no people, no logo watermarks, no text overlays.
 ```
 
+## Style demo
+
+`examples/productshot/before.png` → `demo.png` (look of this recipe). Not a dated ChatGPT / Gemini / Grok / MAI bake-off.
+
 ## Tested
 
-Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop files in `examples/productshot/` and date this section. Do not mark a model as working until then.
+Pending — generate the same expanded prompt on ChatGPT, Gemini, Grok, and Microsoft AI (MAI Playground chat), then drop `chatgpt.png` / `gemini.png` / `grok.png` / `mai.png` in `examples/productshot/` and date this section. Do not mark a model as working until then.
 
 ## Related
 
